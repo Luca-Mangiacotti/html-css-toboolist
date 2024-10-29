@@ -47,6 +47,7 @@ main{
 .sfondo{
     background-color: #ffffff;
     padding: 20px;
+    border-radius: 5%;
 }
 
 .spacing{
@@ -70,5 +71,41 @@ main{
     color:  #C4CBD0;
 }
 /*----------------------
-    GESTIONE LISTA        
+    ELEMENTI LISTA        
 -----------------------*/
+ul{
+    list-style-type: none;   
+}
+.circleV{
+    display: inline-block;
+    vertical-align: middle;
+    height: 20px;
+    width: 20px;
+    border-radius: 100%;
+    border: 1px solid;
+    border-color: rgb(45, 198, 171) ;
+    text-align: center;
+    color: rgb(45, 198, 171);
+}
+
+.circleF{
+    display: inline-block;
+    vertical-align: middle;
+    height: 20px;
+    width: 20px;
+    border-radius: 100%;
+    border: 1px solid;
+    border-color: rgb(255, 65, 65) ;
+    text-align: center;
+    color: rgb(255, 65, 65);
+}
+
+li{
+    padding-left: 10%;
+    padding-top: 10px;
+}
+
+h2{
+    padding-left: 5%;
+    color:  #434851;
+}
