@@ -3,6 +3,8 @@
 -----------------------*/
 *{
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 /*----------------------
@@ -29,6 +31,6 @@ header{
 }
 
 .poslogo{
-    padding-left: 20px;
     vertical-align: middle;
+    padding:15px 20px;
 }
