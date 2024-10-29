@@ -46,8 +46,12 @@ main{
 
 .sfondo{
     background-color: #ffffff;
+    padding: 20px;
 }
 
+.spacing{
+    padding-top: 20px;
+}
 .btn{
     background-color: transparent;
     padding: 8px;
@@ -65,3 +69,6 @@ main{
     background-color: #ffffff;
     color:  #C4CBD0;
 }
+/*----------------------
+    GESTIONE LISTA        
+-----------------------*/
