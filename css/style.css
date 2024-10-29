@@ -13,3 +13,22 @@ body{
     background-color:  #F6F8F9;
     font-family: "Roboto", sans-serif;
 }
+
+/*----------------------
+    GESTIONE HEADER        
+-----------------------*/
+header{
+    background-color: #ffffff ;
+}
+
+.allinea{
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.poslogo{
+    padding-left: 20px;
+    vertical-align: middle;
+}
