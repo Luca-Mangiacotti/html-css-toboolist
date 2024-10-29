@@ -21,6 +21,7 @@ body{
 -----------------------*/
 header{
     background-color: #ffffff ;
+    padding:15px 20px;
 }
 
 .allinea{
@@ -31,6 +32,36 @@ header{
 }
 
 .poslogo{
-    vertical-align: middle;
-    padding:15px 20px;
+    vertical-align: middle;    
+}
+
+/*----------------------
+    GESTIONE MAIN        
+-----------------------*/
+
+main{
+    padding-top: 80px;
+    padding-left: 200px;
+}
+
+.sfondo{
+    background-color: #ffffff;
+}
+
+.btn{
+    background-color: transparent;
+    padding: 8px;
+    border: 1px solid;
+    border-radius: 5px;
+    align-items: center;
+}
+
+.blubtn{
+    background-color: #14AAF5;
+    color: #ffffff;
+}
+
+.whibtn{
+    background-color: #ffffff;
+    color:  #C4CBD0;
 }
