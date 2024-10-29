@@ -1,0 +1,15 @@
+/*----------------------
+    PAGE RESET          
+-----------------------*/
+*{
+    box-sizing: border-box;
+}
+
+/*----------------------
+    SET GENERALE          
+-----------------------*/
+
+body{
+    background-color:  #F6F8F9;
+    font-family: "Roboto", sans-serif;
+}
