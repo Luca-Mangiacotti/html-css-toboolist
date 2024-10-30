@@ -48,13 +48,17 @@ main{
     margin: auto
 }
 
-/*
-.sfondo{
-    background-color: #ffffff;
-    border-radius: 10%;
-    
+hr{
+    background-color: #F6F8f9;
+    margin-top: 10px;
 }
-*/
+
+div{
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 .spacing{
     padding-top: 5%;
 }
